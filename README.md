@@ -8,12 +8,12 @@ This repository demonstrates a bioinformatics analysis workflow using FASTQ RNA-
 
 The goal of this project is to demonstrate a simple and reproducible workflow for analyzing transcriptomic sequencing data. The analysis focuses on:
 
-Assessing the quality of raw sequencing reads
+1. Assessing the quality of raw sequencing reads
 
-Aligning reads to the A. baumannii reference genome
+2. Aligning reads to the A. baumannii reference genome
 
-Evaluating alignment quality and mapping statistics
+3. Evaluating alignment quality and mapping statistics
 
-Performing variant calling for a haploid genome
+4. Performing variant calling for a haploid genome
 
-Visualizing alignments and detected variants using genome browsers
+5. Visualizing alignments and detected variants using genome browsers
