@@ -34,6 +34,20 @@ The goal of this project is to demonstrate a simple and reproducible workflow fo
 
 - Accession number: [SRR25305574](https://www.ncbi.nlm.nih.gov/sra/SRX21049059[accn])
 
+# RNA-seq Analysis of Acinetobacter baumannii
+
+## Learning Modules
+
+1. [Conda Environment Setup](01_conda_setup/README.md)
+2. [Interpreting FASTQ Files](02_fastq_interpretation/README.md)
+3. [Interpreting FastQC Reports](03_fastqc_reports/README.md)
+4. [Data Acquisition Methods](04_data_acquisition/README.md)
+5. [Reference Genome Acquisition](05_reference_genome/README.md)
+6. [Alignment with BWA-MEM](06_alignment/README.md)
+7. [SAMtools Operations](07_samtools/README.md)
+8. [Qualimap Analysis](08_qualimap/README.md)
+9. [Variant Calling with FreeBayes](09_variant_calling/README.md)
+
 ## 📁 Directory structure
 
 To ensure a streamlined input/output redirection throughout the analysis, the following directory structure could serve as a guide before beginning the analysis.
@@ -61,4 +75,7 @@ a_baumanii/
     ├── workflow.png
     ├── fastqc_summary.png
     ├── qualimap_summary.png
-    └── igv_variant_view.png
+    └── igv_variant_view.png ```
+
+
+
