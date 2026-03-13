@@ -41,21 +41,21 @@ To ensure a streamlined input/output redirection throughout the analysis, the fo
 ```text
 Acinetobacter-RNAseq-Analysis/
 │
-├── a_baumanii.yml
-├── pipeline.sh
+├── a_baumanii.yml     # Conda environment file
+├── pipeline.sh        # Analysis script
 │
-├── data/
-│   └── (FASTQ files go here)
+├── data/              # Raw sequencing data
+│   └── (FASTQ files)
 │
-├── refs/
-│   └── (fasta, gff, BWA index files go here)
+├── refs/              # Reference genome files
+│   └── (fasta, gff, BWA index files) 
 │
-├── results/
-│   ├── fastqc/
-│   ├── sam/
-│   ├── bam/
-│   ├── qualimap/
-│   └── vcf/
+├── results/           # Output directory
+│   ├── fastqc/        # FastQC reports
+│   ├── sam/           # SAM alignment files
+│   ├── bam/           # BAM files and mapping stats
+│   ├── qualimap/      # Qualimap QC reports
+│   └── vcf/           # Variant calls (VCF files)
 │
 └── figures/
     ├── workflow.png
