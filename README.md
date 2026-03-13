@@ -4,7 +4,7 @@ _Acinetobacter baumannii_ is an important nosocomial pathogen that threatens hea
 
 This repository demonstrates a bioinformatics analysis workflow using FASTQ RNA-seq data from A. baumannii, including read quality control, genome alignment, variant calling, and visualization.
   
-   ![_Acinetobacter baumanii_](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/a_baumanii.jpg)
+   ![_Acinetobacter baumanii_](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/figures/a_baumanii.jpg)
 
 ## Project objectives
 
@@ -22,4 +22,14 @@ The goal of this project is to demonstrate a simple and reproducible workflow fo
 
 ## 🔀 Project Structure
 
-   ![Sequence Analysis_Structure](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/Blank%20diagram%20(1).png)
+   ![Sequence Analysis_Structure](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/figures/Abaumanii_analysis.png)
+
+## 🗄️ Data Source
+
+- Organism: Acinetobacter baumannii
+
+- Data type: RNA-seq
+
+- Source: NCBI SRA
+
+- Accession number: [SRR25305574](https://www.ncbi.nlm.nih.gov/sra/SRX21049059[accn])
