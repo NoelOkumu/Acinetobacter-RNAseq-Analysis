@@ -3,6 +3,8 @@
 Acinetobacter baumannii is an important nosocomial pathogen that threatens healthcare systems worldwide. Recent evidence suggests that this bacterium can enter a viable but non-culturable (VBNC) state, allowing it to persist under prolonged stress conditions.
 
 This repository demonstrates a bioinformatics analysis workflow using FASTQ RNA-seq data from A. baumannii, including read quality control, genome alignment, variant calling, and visualization.
+  
+   ![Sequence Analysis_Structure](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/a_baumanii.jpg)
 
 ## Project objectives
 
@@ -20,4 +22,4 @@ The goal of this project is to demonstrate a simple and reproducible workflow fo
 
 ## 🔀 Project Structure
 
-   ![Sequence Analysis_Structure](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/a_baumanii.jpg)
+   ![Sequence Analysis_Structure]()
