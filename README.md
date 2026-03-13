@@ -23,3 +23,13 @@ The goal of this project is to demonstrate a simple and reproducible workflow fo
 ## 🔀 Project Structure
 
    ![Sequence Analysis_Structure](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/figures/Abaumanii_analysis.png)
+
+## 🗄️ Data Source
+
+- Organism: Acinetobacter baumannii
+
+- Data type: RNA-seq
+
+- Source: NCBI SRA
+
+- Accession number: SRR25305574
