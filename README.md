@@ -38,26 +38,27 @@ The goal of this project is to demonstrate a simple and reproducible workflow fo
 
 To ensure a streamlined input/output redirection throughout the analysis, the following directory structure could serve as a guide before running of the script.
 
-`Acinetobacter-RNAseq-Analysis/
+```text
+Acinetobacter-RNAseq-Analysis/
 │
-├── a_baumanii.yml              # Conda environment file
-├── pipeline.sh                 # Analysis script
+├── a_baumanii.yml
+├── pipeline.sh
 │
-├── data/                       # Raw sequencing data 
+├── data/
 │   └── (FASTQ files go here)
 │
-├── refs/                       # Reference genome files
+├── refs/
 │   └── (fasta, gff, BWA index files go here)
 │
-├── results/                    # Output directory
-│   ├── fastqc/                 # FastQC reports
-│   ├── sam/                    # SAM alignment files
-│   ├── bam/                    # BAM files and mapping stats
-│   ├── qualimap/               # Qualimap QC reports
-│   └── vcf/                    # Variant calls (VCF files)
+├── results/
+│   ├── fastqc/
+│   ├── sam/
+│   ├── bam/
+│   ├── qualimap/
+│   └── vcf/
 │
-└── figures/                    # Figures for README
+└── figures/
     ├── workflow.png
     ├── fastqc_summary.png
     ├── qualimap_summary.png
-    └── igv_variant_view.png  `
+    └── igv_variant_view.png
