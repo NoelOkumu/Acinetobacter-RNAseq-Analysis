@@ -32,4 +32,4 @@ The goal of this project is to demonstrate a simple and reproducible workflow fo
 
 - Source: NCBI SRA
 
-- Accession number: [SRR1234567](https://www.ncbi.nlm.nih.gov/sra/SRX21049059[accn]))
+- Accession number: [SRR1234567](https://www.ncbi.nlm.nih.gov/sra/SRX21049059[accn])
