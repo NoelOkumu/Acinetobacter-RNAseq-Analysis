@@ -17,3 +17,7 @@ The goal of this project is to demonstrate a simple and reproducible workflow fo
 4. Performing variant calling for a haploid genome
 
 5. Visualizing alignments and detected variants using genome browsers
+
+## 🔀 Project Structure
+
+   ![Sequence Analysis_Structure]()
