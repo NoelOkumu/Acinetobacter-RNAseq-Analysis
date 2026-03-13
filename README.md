@@ -6,7 +6,7 @@ This repository demonstrates a bioinformatics beginner-level analysis workflow u
   
    ![_Acinetobacter baumanii_](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/figures/a_baumanii.jpg)
    
-   _Source_[Hsuliyang](https://miphidic.com/wp-content/uploads/2014/10/ab-him.jpg?w=300)
+   _Source_:  [Hsuliyang](https://miphidic.com/wp-content/uploads/2014/10/ab-him.jpg?w=300)
 
 ## Project objectives
 
