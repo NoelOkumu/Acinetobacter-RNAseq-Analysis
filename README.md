@@ -39,7 +39,7 @@ The goal of this project is to demonstrate a simple and reproducible workflow fo
 To ensure a streamlined input/output redirection throughout the analysis, the following directory structure could serve as a guide before running of the script.
 
 ```text
-Acinetobacter-RNAseq-Analysis/
+a_baumanii/
 │
 ├── a_baumanii.yml     # Conda environment file
 ├── pipeline.sh        # Analysis script
