@@ -36,7 +36,7 @@ The goal of this project is to demonstrate a simple and reproducible workflow fo
 
 ## 📁 Directory structure
 
-To ensure a streamlined input/output redirection throughout the analysis, the following directory structure could serve as a guide before running of the script.
+To ensure a streamlined input/output redirection throughout the analysis, the following directory structure could serve as a guide before beginning the analysis.
 
 ```text
 a_baumanii/
