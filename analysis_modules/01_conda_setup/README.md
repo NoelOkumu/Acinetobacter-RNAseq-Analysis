@@ -15,11 +15,11 @@ Workflow entails:
 Obtaining Reads -> Data Pre-processing -> Alignment -> Mapping Alignment Stats -> Variant Calling
 ```
 
-Ideally, creating a conda environment helps contextualise your project with the necessary tools required for reproducible analysis. Download the ```a_baumanii.yml``` file that has been provided to aid in creating a conda environment with all the necessary tools required for the 
+Ideally, creating a conda environment helps contextualise your project with the necessary tools required for reproducible analysis. 
 
-analysis from [a_baumanii.yml](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/scripts/a_baumanii.yml) provided in the scripts folder.
+Download the ```a_baumanii.yml``` file that has been provided to aid in creating a conda environment with all the necessary tools required for the analysis from [a_baumanii.yml](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/scripts/a_baumanii.yml) provided in the scripts folder.
 
-It is often a good practice to store the required tools within a ```requirements.txt``` file. This not only helps with reproducibility but also with information about the version of the tools to be used. 
+It is often good practice to store the required tools within a ```requirements.txt``` file. This not only helps with reproducibility but also with information about the version of the tools to be used. 
 
 For this exercise, our requirements.txt file contains:
 
