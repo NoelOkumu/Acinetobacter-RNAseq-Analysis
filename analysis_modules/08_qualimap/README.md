@@ -19,6 +19,7 @@ Then, check the first column of your .gff file:
 
 If they do not match, Qualimap will run, but the results will be misleading
 
+---
 
 In our case, we only need basic BAM quality metrics; therefore, gff is optional.
 
