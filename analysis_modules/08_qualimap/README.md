@@ -1,5 +1,11 @@
 # 🗺️ Qualimap for Mapping Statistics
 
+In our case, we only need basic BAM quality metrics
+
+```
+ qualimap bamqc -outdir ${RESULTS_DIR}/qualimap -bam ${RESULTS_DIR}/bam/SRR25305574_sorted.bam
+```
+
 In a case where gene-level/feature-level statistics are required as part of the mapping report, a genomic feature file would be required.
 
 ```
@@ -21,11 +27,6 @@ If they do not match, Qualimap will run, but the results will be misleading
 
 ---
 
-In our case, we only need basic BAM quality metrics; therefore, gff is optional.
-
-```
- qualimap bamqc -outdir ${RESULTS_DIR}/qualimap -bam ${RESULTS_DIR}/bam/SRR25305574_sorted.bam
-```
 
 
 Qualimap computes:
