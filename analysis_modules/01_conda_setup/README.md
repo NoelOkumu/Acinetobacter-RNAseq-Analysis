@@ -26,7 +26,7 @@ For this analysis, our requirements.txt  file contains:
  bcftools=1.9=ha228f0b_4
 ```
 
-Download the ```a_baumanii.yml```  file provided to create a conda environment with all the necessary tools required for downstream analysis from [a_baumanii.yml](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/scripts/a_baumanii.yml) provided in the scripts folder.
+Download the ```a_baumanii.yml```  file provided to create a conda environment with all the necessary tools, and their dependancies, required for downstream analysis from [a_baumanii.yml](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/scripts/a_baumanii.yml) .
 
  
 To create the environment in your local machine, navigate to your terminal and run:
