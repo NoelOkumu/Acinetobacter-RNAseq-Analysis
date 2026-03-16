@@ -1,10 +1,10 @@
-# Conda Setup
+# 🐍 Conda Setup
 
 The first recommended step before performing an analysis is to clearly understand the objectives you intend to meet.
 
 This is a short project that helps learners acquire skills in ReadsQC and read alignment with BWA-MEM, generate an alignment summary map using Qualimap after viewing a mapstats file from samtools Flagstat.  Variant calling will also be performed for haploid using freeBayes and viewing of the reference genome, .bam, .vcf files in IGV or a genome browser
 
-Workflow entails:
+:pipe: Workflow entails:
 
  ```
 Obtaining Reads -> Data Pre-processing -> Alignment -> Mapping Alignment Stats -> Variant Calling
