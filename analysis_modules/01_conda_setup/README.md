@@ -4,13 +4,13 @@ The first recommended step before performing an analysis is to clearly understan
 
 This is a short project that helps learners acquire skills in ReadsQC and read alignment with BWA-MEM, generate an alignment summary map using Qualimap after viewing a mapstats file from samtools Flagstat.  Variant calling will also be performed for haploid using freeBayes and viewing of the reference genome, .bam, .vcf files in IGV or a genome browser
 
-:pipe: Workflow entails:
+▶️ Workflow entails:
 
  ```
 Obtaining Reads -> Data Pre-processing -> Alignment -> Mapping Alignment Stats -> Variant Calling
 ```
 
-Ideally, creating a conda environment helps contextualise your project with the necessary tools required for reproducible analysis. Conda environments are isolated containers that contain a specific collection of packages and their dependencies.
+Ideally, creating a conda environment helps contextualise your project with the necessary tools 🧰 required for reproducible analysis. Conda environments are isolated containers that contain a specific collection of packages and their dependencies.
 
 It is often good practice to store a list of the required tools within a ```requirements.txt``` file. This not only helps with reproducibility, but also with information about the version of the tools to be used to avoid conflicts when creating a conda environment.
 
@@ -35,16 +35,6 @@ To create the environment in your local machine, navigate to your terminal and r
  conda env create -f a_baumanii.yml
  conda activate a_baumanii
 ```
-
-
-
-
-
-
-
-
-
-
 
 
 [← Previous: FASTQ Files](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/analysis_modules/02_fastq_interpretation/README.md) | [Next: Data Acquisition →](https://github.com/NoelOkumu/Acinetobacter-RNAseq-analysis/blob/main/analysis_modules/04_data_acquisition/README.md)
