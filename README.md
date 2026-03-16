@@ -40,15 +40,15 @@ The goal of this project is to demonstrate a simple and reproducible workflow fo
 
 ## Learning Modules
 
-1. [Conda Environment Setup](01_conda_setup/README.md)
-2. [Interpreting FASTQ Files](02_fastq_interpretation/README.md)
+1. [Conda Environment Setup](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/blob/main/analysis_modules/01_conda_setup/README.md)
+2. [Interpreting FASTQ Files](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/tree/main/analysis_modules/02_fastq_interpretation)
 3. [Interpreting FastQC Reports](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/tree/main/analysis_modules/03_fastqc_reports#readme)
-4. [Data Acquisition Methods](04_data_acquisition/README.md)
-5. [Reference Genome Acquisition](05_reference_genome/README.md)
-6. [Alignment with BWA-MEM](06_alignment/README.md)
-7. [SAMtools Operations](07_samtools/README.md)
-8. [Qualimap Analysis](08_qualimap/README.md)
-9. [Variant Calling with FreeBayes](09_variant_calling/README.md)
+4. [Data Acquisition Methods](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/tree/main/analysis_modules/04_data_acquisition)
+5. [Reference Genome Acquisition](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/tree/main/analysis_modules/05_reference_genome)
+6. [Alignment with BWA-MEM](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/tree/main/analysis_modules/06_alignment)
+7. [SAMtools Operations](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/tree/main/analysis_modules/07_samtools)
+8. [Qualimap Analysis](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/tree/main/analysis_modules/08_qualimap)
+9. [Variant Calling with FreeBayes](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/tree/main/analysis_modules/09_variant_calling)
 
 ## 📁 Directory structure
 
