@@ -6,18 +6,18 @@ In our case, we only need basic BAM quality metrics
  qualimap bamqc -outdir ${RESULTS_DIR}/qualimap -bam ${RESULTS_DIR}/bam/SRR25305574_sorted.bam
 ```
 
- 📌 In a case where gene-level/feature-level statistics are required as part of the mapping report, a genomic feature file would be required.
+ 📌 - In a case where gene-level/feature-level statistics are required as part of the mapping report, a genomic feature file would be required.
     
     ```
      qualimap bamqc -outdir bamqc -bam SRR25305574_sorted.bam -gff
     ```
-   1. Before running Qualimap, check:
+   - 1. Before running Qualimap, check:
 
      ```
       samtools idxstats SRR25305574_sorted.bam | head
      ```
 
-   2.  Then, check the first column of your .gff file:
+   - 2.  Then, check the first column of your .gff file:
 
      ```
       cut -f 1 GCF_000015425.1_ASM1542V1_genomic.gff | sort | unique| head
