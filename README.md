@@ -42,7 +42,7 @@ The goal of this project is to demonstrate a simple and reproducible workflow fo
 
 1. [Conda Environment Setup](01_conda_setup/README.md)
 2. [Interpreting FASTQ Files](02_fastq_interpretation/README.md)
-3. [Interpreting FastQC Reports](03_fastqc_reports/README.md)
+3. [Interpreting FastQC Reports](https://github.com/NoelOkumu/Acinetobacter-RNAseq-Analysis/tree/main/analysis_modules/03_fastqc_reports#readme)
 4. [Data Acquisition Methods](04_data_acquisition/README.md)
 5. [Reference Genome Acquisition](05_reference_genome/README.md)
 6. [Alignment with BWA-MEM](06_alignment/README.md)
