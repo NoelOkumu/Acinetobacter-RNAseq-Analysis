@@ -11,13 +11,13 @@ In our case, we only need basic BAM quality metrics
     ```
      qualimap bamqc -outdir bamqc -bam SRR25305574_sorted.bam -gff
     ```
-1. Before running Qualimap, check:
+   1. Before running Qualimap, check:
 
      ```
       samtools idxstats SRR25305574_sorted.bam | head
      ```
 
-     Then, check the first column of your .gff file:
+   2.  Then, check the first column of your .gff file:
 
      ```
       cut -f 1 GCF_000015425.1_ASM1542V1_genomic.gff | sort | unique| head
