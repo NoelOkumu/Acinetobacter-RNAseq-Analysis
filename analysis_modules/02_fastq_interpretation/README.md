@@ -27,4 +27,4 @@ Other methods include:
     wget -P ${DATA_DIR} -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR253/074/SRR25305574/SRR25305574_1.fastq.gz
   ```
 
-📍 The use of fastq-dump and fasterq-dump downloads the Forward and Reverse Reads in one file but use of wget
+📍 The use of fastq-dump and fasterq-dump ensures retrieval of both Forward and Reverse Reads in a single file, but the use of wget requires a separate link that directs to forward and Reverse reads.
